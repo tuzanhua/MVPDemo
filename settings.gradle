@@ -1,0 +1,3 @@
+include ':app', ':CrashHandlerDemo', ':pulltorefreshlistview', ':desiginmind', ':timertoexitapp', ':mvpdemo2', ':edittextWatcher', ':ServiceCallActivity', ':myapplication', ':recylerviewdemo', ':uploadrefreshrecylerview', ':progressbardemo', ':sufengdemo', ':leftdemo', ':threadpooldemo', ':surfaceviewdemo'
+include ':scrollVerify'
+include ':demo_zhy_06_choujiangzhuanpan'

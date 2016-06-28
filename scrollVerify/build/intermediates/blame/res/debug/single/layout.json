@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\demo\\MVPDemo\\scrollVerify\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_fragment_verify.xml",
+        "source": "E:\\demo\\MVPDemo\\scrollVerify\\src\\main\\res\\layout\\dialog_fragment_verify.xml"
+    },
+    {
+        "merged": "E:\\demo\\MVPDemo\\scrollVerify\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\demo\\MVPDemo\\scrollVerify\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CrashDemo</string>
+    <string name="next">跳转</string>
+    <string name="calculate">计算</string>
+</resources>

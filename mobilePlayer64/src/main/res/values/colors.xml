@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#eeffffff</color>
+    <color name="halfwhite">#66ffffff</color>
+    <color name="green">#31C27C</color>
+    <color name="list_presssed">#6666</color>
+    <color name="video_secondary_progress">#6666</color>
+
+</resources>

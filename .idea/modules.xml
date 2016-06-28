@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CrashHandlerDemo/CrashHandlerDemo.iml" filepath="$PROJECT_DIR$/CrashHandlerDemo/CrashHandlerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVPDemo.iml" filepath="$PROJECT_DIR$/MVPDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceCallActivity/ServiceCallActivity.iml" filepath="$PROJECT_DIR$/ServiceCallActivity/ServiceCallActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_zhy_06_choujiangzhuanpan/demo_zhy_06_choujiangzhuanpan.iml" filepath="$PROJECT_DIR$/demo_zhy_06_choujiangzhuanpan/demo_zhy_06_choujiangzhuanpan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desiginmind/desiginmind.iml" filepath="$PROJECT_DIR$/desiginmind/desiginmind.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edittextWatcher/edittextWatcher.iml" filepath="$PROJECT_DIR$/edittextWatcher/edittextWatcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leftdemo/leftdemo.iml" filepath="$PROJECT_DIR$/leftdemo/leftdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvpdemo2/mvpdemo2.iml" filepath="$PROJECT_DIR$/mvpdemo2/mvpdemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progressbardemo/progressbardemo.iml" filepath="$PROJECT_DIR$/progressbardemo/progressbardemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pulltorefreshlistview/pulltorefreshlistview.iml" filepath="$PROJECT_DIR$/pulltorefreshlistview/pulltorefreshlistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recylerviewdemo/recylerviewdemo.iml" filepath="$PROJECT_DIR$/recylerviewdemo/recylerviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scrollVerify/scrollVerify.iml" filepath="$PROJECT_DIR$/scrollVerify/scrollVerify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sufengdemo/sufengdemo.iml" filepath="$PROJECT_DIR$/sufengdemo/sufengdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/surfaceviewdemo/surfaceviewdemo.iml" filepath="$PROJECT_DIR$/surfaceviewdemo/surfaceviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadpooldemo/threadpooldemo.iml" filepath="$PROJECT_DIR$/threadpooldemo/threadpooldemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timertoexitapp/timertoexitapp.iml" filepath="$PROJECT_DIR$/timertoexitapp/timertoexitapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uploadrefreshrecylerview/uploadrefreshrecylerview.iml" filepath="$PROJECT_DIR$/uploadrefreshrecylerview/uploadrefreshrecylerview.iml" />
+    </modules>
+  </component>
+</project>

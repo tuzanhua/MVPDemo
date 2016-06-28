@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <!-- 示波器 -->
+
+    <ImageView
+        android:id="@+id/audio_player_iv_wave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/audio_anim_wave" />
+
+    <!-- 歌手名 -->
+
+    <TextView
+        android:id="@+id/audio_player_tv_arties"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/audio_player_iv_wave"
+        android:layout_centerHorizontal="true"
+        android:text="歌手名"
+        android:textColor="@color/white"
+        android:textSize="16sp" />
+    <!-- 歌词控件 -->
+
+    <com.itheima.mobileplayer64.view.LyricView
+        android:id="@+id/audio_notify_lyricview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/audio_player_iv_wave"
+        android:gravity="center"
+        android:textColor="@color/green" />
+
+</RelativeLayout>

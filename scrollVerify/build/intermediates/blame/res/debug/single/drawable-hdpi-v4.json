@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\demo\\MVPDemo\\scrollVerify\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\image.jpg",
+        "source": "E:\\demo\\MVPDemo\\scrollVerify\\src\\main\\res\\drawable-hdpi\\image.jpg"
+    },
+    {
+        "merged": "E:\\demo\\MVPDemo\\scrollVerify\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\demo\\MVPDemo\\scrollVerify\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

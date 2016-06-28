@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/CrashHandlerDemo" />
+            <option value="$PROJECT_DIR$/ServiceCallActivity" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/demo_zhy_06_choujiangzhuanpan" />
+            <option value="$PROJECT_DIR$/desiginmind" />
+            <option value="$PROJECT_DIR$/edittextWatcher" />
+            <option value="$PROJECT_DIR$/leftdemo" />
+            <option value="$PROJECT_DIR$/mvpdemo2" />
+            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/progressbardemo" />
+            <option value="$PROJECT_DIR$/pulltorefreshlistview" />
+            <option value="$PROJECT_DIR$/recylerviewdemo" />
+            <option value="$PROJECT_DIR$/scrollVerify" />
+            <option value="$PROJECT_DIR$/sufengdemo" />
+            <option value="$PROJECT_DIR$/surfaceviewdemo" />
+            <option value="$PROJECT_DIR$/threadpooldemo" />
+            <option value="$PROJECT_DIR$/timertoexitapp" />
+            <option value="$PROJECT_DIR$/uploadrefreshrecylerview" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/CrashHandlerDemo" />
+            <option value="$PROJECT_DIR$/ServiceCallActivity" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/demo_zhy_06_choujiangzhuanpan" />
+            <option value="$PROJECT_DIR$/desiginmind" />
+            <option value="$PROJECT_DIR$/edittextWatcher" />
+            <option value="$PROJECT_DIR$/leftdemo" />
+            <option value="$PROJECT_DIR$/mvpdemo2" />
+            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/progressbardemo" />
+            <option value="$PROJECT_DIR$/pulltorefreshlistview" />
+            <option value="$PROJECT_DIR$/recylerviewdemo" />
+            <option value="$PROJECT_DIR$/scrollVerify" />
+            <option value="$PROJECT_DIR$/sufengdemo" />
+            <option value="$PROJECT_DIR$/surfaceviewdemo" />
+            <option value="$PROJECT_DIR$/threadpooldemo" />
+            <option value="$PROJECT_DIR$/timertoexitapp" />
+            <option value="$PROJECT_DIR$/uploadrefreshrecylerview" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

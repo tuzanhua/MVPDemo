@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="4dp" >
+
+    <!-- icon -->
+
+    <ImageView
+        android:id="@+id/main_audio_item_iv_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/music_default_bg" />
+    <!-- 文件名 -->
+
+    <TextView
+        android:id="@+id/main_audio_item_tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="4dp"
+        android:layout_toRightOf="@+id/main_audio_item_iv_icon"
+        android:singleLine="true"
+        android:text="文件名"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+    <!-- 视频时间长度 -->
+
+    <TextView
+        android:id="@+id/main_audio_item_tv_arties"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/main_audio_item_tv_title"
+        android:layout_below="@+id/main_audio_item_tv_title"
+        android:text="歌手名"
+        android:textColor="@color/halfwhite"
+        android:textSize="16sp" />
+
+</RelativeLayout>
